@@ -1,1 +1,4 @@
+Owner : 0x7E0bA3B4bcF150C32e837f43284fB298B5a9A4DE
 deployed Contract Address : 0x92EA553eB172f71e2e5b7412832FE3eB97a0687a
+transactionHash: 0x12e3e12dc992b07fadf3e8d3fe6cec5476be36e5b017cd7a14712665d94d0d7a
+smart contract deployed on mumbai amoy and images and metadata is at paneta ipfs server 
